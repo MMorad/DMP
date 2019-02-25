@@ -9,10 +9,13 @@ The PhD research project involves quantifying the increase of seed weight and de
 Sensitive data are information that are not usually disclosed such as student data and medical conditions. This research project does not generate or involve any sensitive data. The funding for this research was accumulated from three funding agencies. One belongs to the private sector, while the other two are foundations. There are no disclosure agreements, contracts, or data management plan requirements by the funding agencies. However, the funding agencies require the work to be either published in scientific journals or provided to farmers through extension articles. 
 
 
-
 # Data standards and metadata
+The project doesn’t have any fixed guidelines or standards for metadata since the people responsible for the data are my PI and myself. Generally, metadata standards are not very common in the department. There were two metadata standards are can be applied for agricultural sciences. Both AgMES and DIF standards offer some guidelines for metadata. AgMES focuses on description, and data exchange of different types of information resources relevant to the field of agriculture, nutrition, and rural development. DIF focuses on instruments used to take spatial and temporal characteristics of data.
+Data that will be generated will include seed weight values in gram, seed moisture content in percentage, number of florets per panicle, and SPAD reading values in percentages. Other data include floret weight values in gram, floret moisture content in percentage. Possible future data may include nitrogen leaf content. The x variable for the data will include growing degree days (GDD), date, and BBCH timescale if applicable at the end of data collection. Metadata standard protocols found in AgMES and DIF would be excessive for the field of study and other ways of data documentation can be more efficient. 
+
 
 # Storage and security
+Data will be stored in five locations. Two are cloud storages, while the other two include an external drive storage and the laptop drive which work is being done on. The last storage will be in the OSU network drive. The data will be uploaded as Excel sheets in the clouds, which are Google drive, and Box storage. The Kumo software will be used to upload data directly into two cloud storages. The data will be copied to hard-case large external drive instead of a small external flash-drive. The Excel file will be transferred using the WinSCP program to the OSU Z drive. The data will be updated monthly to maintain the data. The few precautions will include sending the data to the PI of the project, and emails where those data are sent are kept. Also, the data will be checked periodically at storages to make sure that data is not lost. 
 
 # Access and data sharing
 
