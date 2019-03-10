@@ -19,12 +19,11 @@ Data will be stored in five locations. Two are cloud storages, while the other t
 
 # Access and data sharing
 
-There is no restrictions on the data. All data will be available upon completion of data collection and analysis. 
-This includes seed weight, seed moisture, growing degree days, BBCH scale, number of florets ,SPAD readings. Data formats will include CSV and Excel files. Data license will be either public domain or CCO depending on the chosen repository's guidelines.
+There are no restrictions on the data. All data will be available upon completion of data collection and analysis. This includes seed weight, seed moisture, growing degree days, BBCH scale, number of florets, SPAD readings. Data formats will include CSV and Excel files. Data license will be either public domain or CCO depending on the chosen repository's guidelines.
 
 # Archiving and preservation
 
-Data will be preserved in a shared drive that is accessable to the lab staff after finishing my project and graduation. Maintaining is performed by the seed lab personal. Google drive and the department drive will be used to save the project's data. All data will be in txt or csv format.
+Data will be preserved in a shared drive that is accessible to the lab staff after finishing my project and graduation. Maintaining is performed by the seed lab personal including the newly hired research assitant and the PI. Google drive and the department drive will be used to save the project's data. All data will be in txt or csv format.
 
 
 Repository with source code [here](https://github.com/clarallebot/GRAD521_DMPtemplate)
